@@ -14,7 +14,7 @@ namespace KilledByYourOwnSlowReflexesBIE
     {
         public const string GUID = "spapi.etg.killedbyyourownslowreflexes";
         public const string NAME = "Killed By Your Own Slow Reflexes";
-        public const string VERSION = "1.0.0";
+        public const string VERSION = "1.0.1";
         public static ConfigEntry<bool> IsSkillIssueMode;
         public static ConfigEntry<bool> IsRatDrawingMode;
 
